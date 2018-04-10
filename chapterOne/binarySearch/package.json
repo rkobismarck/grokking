@@ -1,0 +1,22 @@
+{
+  "name": "binarysearch",
+  "version": "1.0.0",
+  "description": "Binary search.",
+  "main": "search.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkobismarck/grokking.git"
+  },
+  "keywords": [
+    "RCTT"
+  ],
+  "author": "RCTT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkobismarck/grokking/issues"
+  },
+  "homepage": "https://github.com/rkobismarck/grokking#readme"
+}
